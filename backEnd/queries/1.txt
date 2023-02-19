@@ -1,0 +1,7 @@
+use myDatabase
+
+show collections
+
+db.usertypes.find()
+
+db.usertypes.drop()
